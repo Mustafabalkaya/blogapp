@@ -7,7 +7,7 @@ This project is a blog application developed using Python and the Django framewo
 1. **Installation**
    - Clone the project: `git clone https://github.com/Mustafabalkaya/BlogApp.git`
    - Create a virtual environment: `python -m venv venv`
-   - Install the required packages: `pip install -r requirements.txt`
+   - Install the required packages: `pip install django`
 
 2. **Database Migrations**
    - To create the database, use the following commands:
